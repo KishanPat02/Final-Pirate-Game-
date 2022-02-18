@@ -1,2 +1,2 @@
-# Final-Pirate-Game-
-Made by: Bhanu Priyanga  and Kishan Patel
+# PiratesInvasionStage-5
+added sprite animation
